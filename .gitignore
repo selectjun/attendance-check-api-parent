@@ -40,3 +40,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+### 하위 프로젝트 ###
+/attendance-check-api-config-server/
+/attendance-check-api-config-yml/
+/attendance-check-api-eureka-server/
+/attendance-check-api-gateway-server/

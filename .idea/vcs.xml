@@ -2,5 +2,9 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/attendance-check-api-config-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/attendance-check-api-config-yml" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/attendance-check-api-eureka-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/attendance-check-api-gateway-server" vcs="Git" />
   </component>
 </project>
